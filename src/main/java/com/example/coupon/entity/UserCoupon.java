@@ -1,0 +1,1 @@
+$(cat /Users/sunyu/Downloads/test-qoder/src/main/java/com/example/coupon/entity/UserCoupon.java)
