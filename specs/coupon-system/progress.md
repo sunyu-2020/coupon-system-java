@@ -1,0 +1,1 @@
+$(cat /Users/sunyu/Downloads/test-qoder/specs/coupon-system/progress.md)
